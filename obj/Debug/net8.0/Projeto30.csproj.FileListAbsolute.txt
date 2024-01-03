@@ -1,0 +1,14 @@
+C:\C#\Projetos02\Projeto30\bin\Debug\net8.0\Projeto30.exe
+C:\C#\Projetos02\Projeto30\bin\Debug\net8.0\Projeto30.deps.json
+C:\C#\Projetos02\Projeto30\bin\Debug\net8.0\Projeto30.runtimeconfig.json
+C:\C#\Projetos02\Projeto30\bin\Debug\net8.0\Projeto30.dll
+C:\C#\Projetos02\Projeto30\bin\Debug\net8.0\Projeto30.pdb
+C:\C#\Projetos02\Projeto30\obj\Debug\net8.0\Projeto30.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\Projetos02\Projeto30\obj\Debug\net8.0\Projeto30.AssemblyInfoInputs.cache
+C:\C#\Projetos02\Projeto30\obj\Debug\net8.0\Projeto30.AssemblyInfo.cs
+C:\C#\Projetos02\Projeto30\obj\Debug\net8.0\Projeto30.csproj.CoreCompileInputs.cache
+C:\C#\Projetos02\Projeto30\obj\Debug\net8.0\Projeto30.dll
+C:\C#\Projetos02\Projeto30\obj\Debug\net8.0\refint\Projeto30.dll
+C:\C#\Projetos02\Projeto30\obj\Debug\net8.0\Projeto30.pdb
+C:\C#\Projetos02\Projeto30\obj\Debug\net8.0\Projeto30.genruntimeconfig.cache
+C:\C#\Projetos02\Projeto30\obj\Debug\net8.0\ref\Projeto30.dll
