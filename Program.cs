@@ -1,6 +1,11 @@
 ﻿using System.Diagnostics;
 using Projeto30.Models;
 
+// instanciando as classes sem receber valores, por meio do constructor vazio
+Pessoa p1 = new Pessoa();
+Pessoa p2 = new Pessoa();
+Pessoa p3 = new Pessoa();
+
 string nome = string.Empty;
 int idade = 0;
 
@@ -31,7 +36,7 @@ for(int i=1; i<=3; i++){ // loop para inserção dos dados
 
     switch(i){
         case 1:
-            Pessoa p1 = new Pessoa(nome, idade); // instanciando a primeira pessoa e recebendo seus dados
+            p1 = new Pessoa(nome, idade); // primeira pessoa recebendo seus dados
             if(p1.idade>maiorIdade){ // verificando se a idade da primeira pessoa é a maior
                 maisVelho = p1.nome;
                 maiorIdade = p1.idade;
@@ -39,7 +44,7 @@ for(int i=1; i<=3; i++){ // loop para inserção dos dados
             break;
 
         case 2:
-            Pessoa p2 = new Pessoa(nome, idade); // instanciando a segunda pessoa e recebendo seus dados
+            p2 = new Pessoa(nome, idade); // segunda pessoa recebendo seus dados
             if(p2.idade>maiorIdade){ // verificando se a idade da segunda pessoa é a maior
                 maisVelho = p2.nome;
                 maiorIdade = p2.idade;
@@ -47,7 +52,7 @@ for(int i=1; i<=3; i++){ // loop para inserção dos dados
             break;
 
         case 3:
-            Pessoa p3 = new Pessoa(nome, idade); // instanciando a terceira pessoa e recebendo seus dados
+            p3 = new Pessoa(nome, idade); // terceira pessoa recebendo seus dados
             if(p3.idade>maiorIdade){ // verificando se a idade da terceira pessoa é a maior
                 maisVelho = p3.nome;
                 maiorIdade = p3.idade;

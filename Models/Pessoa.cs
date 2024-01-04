@@ -15,5 +15,11 @@ namespace Projeto30.Models{
             this.nome = nome;
             this.idade = idade;
         }
+
+        /*
+        public void ExibirPessoaMaisVelha(){
+            Console.WriteLine($"\nMais velho: {maisVelho}, com {maiorIdade} anos\n");
+        }
+        */
     }
 }
